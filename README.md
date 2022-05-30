@@ -1,5 +1,5 @@
 # Online shop
-Implementing an online shop using darts and flutter with the Redis database
+Implementing an online shop using dart and flutter with the Redis database
 </br>
 The language of this program is Persian.
 
